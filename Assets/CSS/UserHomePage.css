@@ -1,0 +1,165 @@
+body
+{
+   background-color: #F5FFFA;
+   background-image: url(images/UserHomePage_bkgrnd.png);
+   background-repeat: repeat-x;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#jQueryButton1
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+}
+#wb_jQueryButton1 .ui-button
+{
+   padding: 0;
+   line-height: 97px;
+}
+#jQueryButton1
+{
+   color: #454545;
+   text-decoration: none;
+}
+#jQueryButton1 :hover
+{
+   color: #2B2B2B;
+}
+#jQueryButton1 :active
+{
+   color: #FFFFFF;
+}
+#wb_jQueryButton1 .ui-corner-all, #wb_jQueryButton1 .ui-corner-left
+{
+   -webkit-border-bottom-left-radius: 4px;
+   -moz-border-bottom-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   -webkit-border-top-left-radius: 4px;
+   -moz-border-top-left-radius: 4px;
+   border-top-left-radius: 4px;
+}
+#wb_jQueryButton1 .ui-corner-all, #wb_jQueryButton1 .ui-corner-right
+{
+   -webkit-border-bottom-right-radius: 4px;
+   -moz-border-bottom-right-radius: 4px;
+   border-bottom-right-radius: 4px;
+   -webkit-border-top-right-radius: 4px;
+   -moz-border-top-right-radius: 4px;
+   border-top-right-radius: 4px;
+}
+#jQueryButton2
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+}
+#wb_jQueryButton2 .ui-button
+{
+   padding: 0;
+   line-height: 97px;
+}
+#jQueryButton2
+{
+   color: #454545;
+   text-decoration: none;
+}
+#jQueryButton2 :hover
+{
+   color: #2B2B2B;
+}
+#jQueryButton2 :active
+{
+   color: #FFFFFF;
+}
+#wb_jQueryButton2 .ui-corner-all, #wb_jQueryButton2 .ui-corner-left
+{
+   -webkit-border-bottom-left-radius: 4px;
+   -moz-border-bottom-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   -webkit-border-top-left-radius: 4px;
+   -moz-border-top-left-radius: 4px;
+   border-top-left-radius: 4px;
+}
+#wb_jQueryButton2 .ui-corner-all, #wb_jQueryButton2 .ui-corner-right
+{
+   -webkit-border-bottom-right-radius: 4px;
+   -moz-border-bottom-right-radius: 4px;
+   border-bottom-right-radius: 4px;
+   -webkit-border-top-right-radius: 4px;
+   -moz-border-top-right-radius: 4px;
+   border-top-right-radius: 4px;
+}
+#jQueryButton4
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+}
+#wb_jQueryButton4 .ui-button
+{
+   padding: 0;
+   line-height: 97px;
+}
+#jQueryButton4
+{
+   color: #454545;
+   text-decoration: none;
+}
+#jQueryButton4 :hover
+{
+   color: #2B2B2B;
+}
+#jQueryButton4 :active
+{
+   color: #FFFFFF;
+}
+#wb_jQueryButton4 .ui-corner-all, #wb_jQueryButton4 .ui-corner-left
+{
+   -webkit-border-bottom-left-radius: 4px;
+   -moz-border-bottom-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   -webkit-border-top-left-radius: 4px;
+   -moz-border-top-left-radius: 4px;
+   border-top-left-radius: 4px;
+}
+#wb_jQueryButton4 .ui-corner-all, #wb_jQueryButton4 .ui-corner-right
+{
+   -webkit-border-bottom-right-radius: 4px;
+   -moz-border-bottom-right-radius: 4px;
+   border-bottom-right-radius: 4px;
+   -webkit-border-top-right-radius: 4px;
+   -moz-border-top-right-radius: 4px;
+   border-top-right-radius: 4px;
+}
+#PageFooter1
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}

@@ -1,0 +1,110 @@
+body
+{
+   background-color: #F5FFFA;
+   background-image: url(images/Home_bkgrnd.png);
+   background-repeat: repeat-x;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+#TextArt1
+{
+   border-width: 0;
+}
+#TextArt2
+{
+   border-width: 0;
+}
+#SlideShow1 .image
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#NavigationBar2 ul.navbar
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+#NavigationBar2 ul.navbar li
+{
+   height: 30px;
+   width: 412px;
+   float: left;
+   margin: 0 4px 0 0;
+}
+#NavigationBar2 ul.navbar li a
+{
+   display: block;
+   position: relative;
+}
+#NavigationBar2 ul.navbar li a img
+{
+   position: absolute;
+   left: 0;
+   z-index: 1;
+   border-width: 0;
+}
+#NavigationBar2 ul.navbar li span
+{
+   display: block;
+   height: 30px;
+   width: 412px;
+   position: absolute;
+   z-index: 2;
+}
+#NavigationBar2 a .hover
+{
+   visibility: hidden;
+}
+#NavigationBar2 a:hover .hover
+{
+   visibility: visible;
+}
+#NavigationBar2 a:hover span
+{
+   visibility: hidden;
+}
+#PageFooter1
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
